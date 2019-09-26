@@ -1,2 +1,2 @@
 # learnReactNative
-This repository contains all my React Native projects which will cover most of the topics of RN.
+This repository covers implementation of a React Native + Redux app.
